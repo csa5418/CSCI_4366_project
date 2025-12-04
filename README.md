@@ -6,3 +6,6 @@ Summary: The goal of this project is audio classifation through human speech, cl
 Names: Charlie Allison - csa5418
 
 Link to orginal dataset: https://www.kaggle.com/datasets/aibuzz/audio-classification-predict-the-emotions (I am probably going to edit it heavily)
+
+#Notice
+There are many abosolute paths in both files. If you want to them (which I dont reccomend) youll need to change those sorry
