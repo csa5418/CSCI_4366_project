@@ -9,3 +9,4 @@ Link to orginal dataset: https://www.kaggle.com/datasets/aibuzz/audio-classifica
 
 # Notice
 There are many abosolute paths in both files. If you want to them (which I dont reccomend) youll need to change those sorry
+The folder with the images was too large to upload even zipped, so if you really want to see them then you can convert them, but it takes forever
